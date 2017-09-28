@@ -1,0 +1,22 @@
+c:\users\pawan\documents\visual studio 2010\Projects\INCOXIN\INCOXIN\Bin\Debug\ApplicationIcon.png
+c:\users\pawan\documents\visual studio 2010\Projects\INCOXIN\INCOXIN\Bin\Debug\Background.png
+c:\users\pawan\documents\visual studio 2010\Projects\INCOXIN\INCOXIN\Bin\Debug\INCOXIN.dll
+c:\users\pawan\documents\visual studio 2010\Projects\INCOXIN\INCOXIN\Bin\Debug\INCOXIN.pdb
+c:\users\pawan\documents\visual studio 2010\Projects\INCOXIN\INCOXIN\Bin\Debug\AppManifest.xaml
+c:\users\pawan\documents\visual studio 2010\Projects\INCOXIN\INCOXIN\Bin\Debug\INCOXIN.xap
+c:\users\pawan\documents\visual studio 2010\Projects\INCOXIN\INCOXIN\obj\Debug\ResolveAssemblyReference.cache
+c:\users\pawan\documents\visual studio 2010\Projects\INCOXIN\INCOXIN\obj\Debug\App.g.i.cs
+c:\users\pawan\documents\visual studio 2010\Projects\INCOXIN\INCOXIN\obj\Debug\Introduction.g.i.cs
+c:\users\pawan\documents\visual studio 2010\Projects\INCOXIN\INCOXIN\obj\Debug\MainPage.g.i.cs
+c:\users\pawan\documents\visual studio 2010\Projects\INCOXIN\INCOXIN\obj\Debug\INCOXIN.g.resources
+c:\users\pawan\documents\visual studio 2010\Projects\INCOXIN\INCOXIN\obj\Debug\INCOXIN.dll
+c:\users\pawan\documents\visual studio 2010\Projects\INCOXIN\INCOXIN\obj\Debug\INCOXIN.pdb
+c:\users\pawan\documents\visual studio 2010\Projects\INCOXIN\INCOXIN\obj\Debug\XapCacheFile.xml
+c:\users\pawan\documents\visual studio 2010\Projects\INCOXIN\INCOXIN\obj\Debug\Continue.g.i.cs
+c:\users\pawan\documents\visual studio 2010\Projects\INCOXIN\INCOXIN\obj\Debug\Help.g.i.cs
+C:\Users\Pawan\Documents\Visual Studio 2010\Projects\INCOXIN\INCOXIN\obj\Debug\About.g.i.cs
+C:\Users\Pawan\Documents\Visual Studio 2010\Projects\INCOXIN\INCOXIN\obj\Debug\Detail.g.i.cs
+C:\Users\Pawan\documents\visual studio 2010\Projects\INCOXIN\INCOXIN\obj\Debug\Privacy Statement.g.i.cs
+C:\Users\Pawan\Documents\Visual Studio 2010\Projects\INCOXIN\INCOXIN\obj\Debug\INCOXIN.AppResources.resources
+C:\Users\Pawan\Documents\Visual Studio 2010\Projects\INCOXIN\INCOXIN\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Pawan\Documents\Visual Studio 2010\Projects\INCOXIN\INCOXIN\obj\Debug\GenerateResource.write.1.tlog
